@@ -1,0 +1,30 @@
+{
+  "name": "AI Context Index",
+  "description": "This is the guide on how to create Drosera traps.",
+  "files": [
+    {
+      "name": "How Drosera work",
+      "path": "./how-drosera-work.md"
+    },
+    {
+      "name": "Creating a trap",
+      "path": "./creating-a-trap.md"
+    },
+    {
+      "name": "Usecases",
+      "path": "./usecases.md"
+    },
+    {
+      "name": "Prompts. Quick Reference",
+      "path": "./prompts/quick-reference.md"
+    },
+    {
+      "name": "Prompts. Trap generation prompt",
+      "path": "./prompts/trap-generation-prompt.md"
+    },
+    {
+      "name": "Prompts. Trap testing guide",
+      "path": "./prompts/trap-testing-guide.md"
+    }
+  ]
+}
